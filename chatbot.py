@@ -1,14 +1,15 @@
 import os
 import streamlit as st
-import openai
 import faiss
 import numpy as np
 from sentence_transformers import SentenceTransformer
+from openai import OpenAI
 
 st.set_page_config(page_title="vCommission Affiliate Chatbot", page_icon="🤖", layout="centered")
 
 # -------- API KEY --------
-openai.api_key = "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"
+# Recommended: use environment variable instead of hardcoding
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY", "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"))
 
 BASE_PATH = os.path.dirname(os.path.abspath(__file__))
 
@@ -52,7 +53,7 @@ def chatbot(query: str) -> str:
     if not context.strip():
         return "The provided context does not contain information about this topic."
 
-    response = openai.ChatCompletion.create(
+    response = client.chat.completions.create(
         model="gpt-4o-mini",  # ✅ correct model
         messages=[
             {
@@ -61,14 +62,15 @@ def chatbot(query: str) -> str:
                     "You are a helpful assistant for vCommission affiliates and advertisers. "
                     "If the context is relevant but phrased differently, still try to give the best possible answer. "
                     "If nothing is relevant at all, reply: "
-                    "'I'm not entirely sure about that,But you can reach out to us directly: Email: support@vcommission.com"
+                    "I'm not entirely sure about that, but you can reach out to us directly: "
+                    "Email: support@vcommission.com"
                 )
             },
             {"role": "user", "content": f"Context:\n{context}\n\nQuestion: {query}"}
         ],
         temperature=0
     )
-    return response["choices"][0]["message"]["content"]
+    return response.choices[0].message.content
 
 # -------- Streamlit UI --------
 st.title("🤖 vCommission Chatbot")
