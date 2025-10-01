@@ -8,8 +8,8 @@ from openai import OpenAI
 st.set_page_config(page_title="vCommission Affiliate Chatbot", page_icon="🤖", layout="centered")
 
 # -------- API KEY --------
-# Recommended: use environment variable instead of hardcoding
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY", "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"))
+# Reads your key from Streamlit secrets (set in Settings → Secrets)
+client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
 BASE_PATH = os.path.dirname(os.path.abspath(__file__))
 
