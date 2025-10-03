@@ -51,7 +51,7 @@ logo_path = os.path.join(BASE_PATH, "images.png")  # Image in root folder
 
 # ---------------- Display Company Logo Centered ----------------
 if os.path.exists(logo_path):
-    col1, col2, col3 = st.columns([1, 3, 1])
+    col1, col2, col3 = st.columns([1, 6, 1])
     with col2:
         st.image(logo_path, width=600)  # Adjust width as needed
 else:
@@ -137,5 +137,6 @@ if query := st.chat_input("Type your question here..."):
             placeholder.markdown(f"<div class='assistant-bubble'>{typed_answer}</div>", unsafe_allow_html=True)
 
     st.session_state.messages.append({"role": "assistant", "content": answer})
+
 
 
