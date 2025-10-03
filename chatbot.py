@@ -7,23 +7,19 @@ from openai import OpenAI
 import time
 
 # ---------------- Streamlit Config ----------------
-st.set_page_config(page_title="vComChat - vCommission Assistant",
-                   page_icon="🤖", layout="wide")
+st.set_page_config(
+    page_title="vComChat - vCommission Assistant",
+    page_icon="🤖",
+    layout="wide"
+)
 
 # ---------------- Custom CSS ----------------
 st.markdown("""
 <style>
 /* Simple plain background */
 .stApp {
-    background-color: #f5f5f5; /* light grey background */
+    background-color: #f5f5f5;
     font-family: "Poppins", sans-serif;
-}
-
-/* Title styling */
-h1 {
-    font-size: 50px !important;
-    text-align: center;
-    color: #1f2937; /* dark grey */
 }
 
 /* Chat bubbles */
@@ -51,6 +47,13 @@ client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
 # ---------------- Paths ----------------
 BASE_PATH = os.path.dirname(os.path.abspath(__file__))
+logo_path = os.path.join(BASE_PATH, "images.png")  # image in root folder
+
+# ---------------- Display Company Logo ----------------
+if os.path.exists(logo_path):
+    st.image(logo_path, width=250)  # Adjust width as needed
+else:
+    st.warning("Logo image not found. Make sure 'images.png' is in the repo root.")
 
 # ---------------- Load Knowledge Base ----------------
 faq_data = []
@@ -105,8 +108,6 @@ def chatbot(query: str) -> str:
     return response.choices[0].message.content
 
 # ---------------- Streamlit UI ----------------
-st.title("🤖 vComChat")
-
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
