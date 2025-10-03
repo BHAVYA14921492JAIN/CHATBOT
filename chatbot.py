@@ -13,29 +13,20 @@ st.set_page_config(page_title="vComChat - vCommission Assistant",
 # ---------------- Custom CSS ----------------
 st.markdown("""
 <style>
+/* Simple plain background */
 .stApp {
-    background: linear-gradient(270deg, #ff6ec4, #7873f5, #4ade80, #facc15);
-    background-size: 800% 800%;
-    animation: gradientMove 15s ease infinite;
+    background-color: #f5f5f5; /* light grey background */
     font-family: "Poppins", sans-serif;
 }
-@keyframes gradientMove {
-    0% {background-position: 0% 50%;}
-    50% {background-position: 100% 50%;}
-    100% {background-position: 0% 50%;}
-}
+
+/* Title styling */
 h1 {
     font-size: 50px !important;
     text-align: center;
-    background: -webkit-linear-gradient(#ff9a9e, #fad0c4);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    animation: glow 2s infinite alternate;
+    color: #1f2937; /* dark grey */
 }
-@keyframes glow {
-    from { text-shadow: 0 0 10px #ff6ec4; }
-    to { text-shadow: 0 0 30px #7873f5; }
-}
+
+/* Chat bubbles */
 .user-bubble {
     background-color: #1e40af;
     color: white;
@@ -43,7 +34,6 @@ h1 {
     border-radius: 15px;
     margin: 5px;
     max-width: 70%;
-    animation: slideInRight 0.5s ease;
 }
 .assistant-bubble {
     background-color: #10b981;
@@ -52,21 +42,11 @@ h1 {
     border-radius: 15px;
     margin: 5px;
     max-width: 70%;
-    animation: slideInLeft 0.5s ease;
-}
-@keyframes slideInRight {
-    from { transform: translateX(100%); opacity: 0; }
-    to { transform: translateX(0); opacity: 1; }
-}
-@keyframes slideInLeft {
-    from { transform: translateX(-100%); opacity: 0; }
-    to { transform: translateX(0); opacity: 1; }
 }
 </style>
 """, unsafe_allow_html=True)
 
 # ---------------- OpenAI Client ----------------
-# Retrieve securely from Streamlit secrets
 client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
 # ---------------- Paths ----------------
