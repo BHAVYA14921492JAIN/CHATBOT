@@ -629,9 +629,7 @@ A: The company does not publicly disclose specific advertiser names. However, vC
 
 Q208. Who are the top five affiliates working with vCommission?  
 A: For confidentiality reasons, vCommission does not share affiliate names. The network consists of 100,000+ affiliates worldwide, including top-performing publishers in performance marketing, media buying, influencers, and mobile traffic.  
-
-Q209. Which are the top five campaigns ranked by revenue performance?  
-A: Revenue-wise rankings are not disclosed publicly. However, high-performing verticals include e-commerce, finance, gaming, mobile apps, and travel.  
+ 
 
 Q210. What is the maximum EPC (Earnings Per Click) achieved on your network?  
 A: EPC varies significantly by campaign, geography, and traffic quality. While exact figures are not published, affiliates can access EPC benchmarks through their dashboard for each campaign.  
@@ -675,4 +673,5 @@ A: Yes.
 📞 Phone: +91-124-1234567  
 
 Q222. What percentage margin does vCommission retain from advertiser budgets before releasing payments to affiliates?  
+
 A: The exact percentage is not disclosed. vCommission keeps a margin agreed with advertisers to cover operational costs, ensuring affiliates receive competitive payouts.  
