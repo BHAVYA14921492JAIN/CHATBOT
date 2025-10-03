@@ -39,6 +39,13 @@ st.markdown("""
     margin: 5px;
     max-width: 70%;
 }
+
+/* Center the logo image */
+.logo-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
 </style>
 """, unsafe_allow_html=True)
 
@@ -47,11 +54,15 @@ client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
 # ---------------- Paths ----------------
 BASE_PATH = os.path.dirname(os.path.abspath(__file__))
-logo_path = os.path.join(BASE_PATH, "images.png")  # image in root folder
+logo_path = os.path.join(BASE_PATH, "images.png")  # image in repo root
 
 # ---------------- Display Company Logo ----------------
 if os.path.exists(logo_path):
-    st.image(logo_path, width=250)  # Adjust width as needed
+    # Use markdown with div to center the image
+    st.markdown(
+        f'<div class="logo-container"><img src="images.png" width="300"></div>',
+        unsafe_allow_html=True
+    )
 else:
     st.warning("Logo image not found. Make sure 'images.png' is in the repo root.")
 
