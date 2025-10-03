@@ -313,9 +313,7 @@ https://vcomcampaign.netlify.app/
 This link provides access to the VC Campaign Lens (Affiliate Campaign Explorer). All affiliates are required to check this portal regularly for updates on campaigns, performance metrics, and announcements.
 
 
-
-Top Performing Campaigns – Case Studies
-
+Top Performing Campaigns and top performing advertisers-
 vCommission has delivered strong performance across multiple industries through data-driven affiliate campaigns. Below is a reference list of top campaigns that affiliates can learn from. Each campaign includes key highlights and a direct link for further details.
 
 1. AirHelp – Multi-Format Ads Strategy
@@ -405,6 +403,7 @@ Order volume increased by 68.61% with mobile-first, multi-channel strategies.
 
 Achieved 75% retention rate alongside 25% new user acquisition.
 🔗 https://www.vcommission.com/case-studies/shopsy-case-study/
+
 
 
 
