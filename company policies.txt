@@ -304,205 +304,108 @@ A: Refer to official Terms & Conditions.
 18. Publicity without VC’s consent prohibited.  
 19. Invalid provisions do not affect enforceability of remaining terms.
 
+Affiliate Program — Active Campaign / Campaign Explorer Link
 
+Active Campaign / Campaign Explorer Access
+For campaign reporting, tracking, and performance analytics, affiliates should use the official campaign dashboard at:
+https://vcomcampaign.netlify.app/
 
+This link provides access to the VC Campaign Lens (Affiliate Campaign Explorer). All affiliates are required to check this portal regularly for updates on campaigns, performance metrics, and announcements.
 
-Dinosaurs were reptiles that dominated Earth millions of years ago.
 
-They first appeared during the Triassic period about 230 million years ago.
 
-Dinosaurs ruled for over 160 million years.
+Top Performing Campaigns – Case Studies
 
-They became extinct around 65 million years ago.
+vCommission has delivered strong performance across multiple industries through data-driven affiliate campaigns. Below is a reference list of top campaigns that affiliates can learn from. Each campaign includes key highlights and a direct link for further details.
 
-The extinction happened at the end of the Cretaceous period.
+1. AirHelp – Multi-Format Ads Strategy
 
-Scientists believe an asteroid impact was the main cause.
+Vertical: Travel | Region: Worldwide | Model: CPS
 
-Volcanic activity also contributed to their decline.
+Boosted clicks by 273% and conversions by 75% within one quarter.
 
-Dinosaurs came in many shapes and sizes.
+Optimized tracking with daily monitoring for improved ROI.
 
-Some were as small as chickens.
+Expanded campaign reach with multi-format ads (banners, native ads).
+🔗 https://www.vcommission.com/case-studies/airhelp-case-study/
 
-Others were larger than a house.
+2. Hostinger – Optimized Affiliate Strategy
 
-The largest dinosaurs were the sauropods.
+Vertical: Hosting & Technology | Region: Worldwide | Model: CPS
 
-Sauropods had long necks and tails.
+Achieved 328% revenue growth with higher-quality traffic.
 
-They ate plants and leaves from tall trees.
+Doubled monthly conversions with 120%+ increase QoQ.
 
-The smallest dinosaurs could run fast.
+Improved transparency and built strong affiliate relationships with hybrid commission models.
+🔗 https://www.vcommission.com/case-studies/hostinger-case-study/
 
-Many dinosaurs were herbivores.
+3. Slursh – Performance-First Affiliate Strategy
 
-Herbivores fed on plants, ferns, and trees.
+Vertical: Home & Kitchen Appliances | Region: India | Model: COD
 
-Some dinosaurs were carnivores.
+Scaled GMV by 691% in 5 months (₹1 lakh → ₹8 lakh).
 
-Carnivores ate other animals.
+Conversion rates improved by 102% through optimized funnels and creatives.
 
-The most famous carnivore was Tyrannosaurus rex.
+Introduced S2S tracking, real-time dashboards, and fraud prevention tools.
+🔗 https://www.vcommission.com/slursh-case-study/
 
-T. rex had powerful jaws and sharp teeth.
+4. Skimmylo – D2C Affiliate COD Campaign
 
-Another predator was Velociraptor.
+Vertical: E-Commerce (Shapewear) | Region: India | Model: COD
 
-Velociraptors were fast and hunted in groups.
+GMV increased by 1895% in 3 months.
 
-Dinosaurs lived on every continent.
+Conversion rate improved by 2209% with adaptive content strategies.
 
-Fossils have been found all over the world.
+Implemented event-level tracking, modular funnels, and fraud protection.
+🔗 https://www.vcommission.com/case-studies/skimmylo-case-study/
 
-Fossils are preserved remains of ancient life.
+5. Elementor – Global Affiliate Expansion
 
-Paleontologists study fossils to learn about dinosaurs.
+Vertical: Web Development | Region: Worldwide | Model: CPS
 
-Fossils include bones, teeth, and footprints.
+Achieved a 30,953% surge in clicks (194 → 60,242).
 
-Some fossils even show skin impressions.
+Sales increased by 40.3%, driven by refined funnels and affiliate optimization.
 
-Dinosaurs laid eggs.
+Expanded reach into non-English markets with localized campaigns.
+🔗 https://www.vcommission.com/case-studies/elementor/
 
-Some built nests to protect their eggs.
+6. Amazon MX Player – Cross-Platform Strategy
 
-Evidence shows some dinosaurs cared for their young.
+Vertical: Streaming & Entertainment | Region: PAN India | Model: CPA
 
-Dinosaurs had different ways of moving.
+Achieved a 432% boost in streamer engagement (540K → 2.88M).
 
-Some walked on two legs.
+Leveraged multi-platform programmatic ads with DSPs to target diverse audiences.
 
-Others walked on four legs.
+Optimized creatives per platform and reduced costs with real-time CPA tracking.
+🔗 https://www.vcommission.com/case-studies/mx-player-case-study/
 
-Some could switch between two and four legs.
+7. Myntra – Omni-Channel Affiliate Strategy
 
-Dinosaurs had strong legs for running.
+Vertical: E-Commerce & Lifestyle | Region: PAN India | Model: CPS
 
-Many dinosaurs had tails for balance.
+Delivered 75,000+ conversions MoM and ₹14 Cr GMV monthly.
 
-Some dinosaurs could swim.
+Clicks increased by 80.73% in 6 months (964K → 1.74M).
 
-Dinosaurs were not all cold-blooded.
+Orders grew 473% in one year with personalized incentives and multi-channel execution.
+🔗 https://www.vcommission.com/case-studies/myntra-case-study/
 
-Scientists think many were warm-blooded.
+8. Shopsy – Tier-3 City Growth Strategy
 
-Warm-blooded dinosaurs had active lifestyles.
+Vertical: E-Commerce (D2C) | Region: PAN India (Tier-3 focus) | Model: CPA
 
-Some dinosaurs may have had feathers.
+GMV grew by 45% QoQ through targeted Tier-3 promotions.
 
-Feathers were useful for warmth.
+Order volume increased by 68.61% with mobile-first, multi-channel strategies.
 
-Feathers may also have been used for display.
+Achieved 75% retention rate alongside 25% new user acquisition.
+🔗 https://www.vcommission.com/case-studies/shopsy-case-study/
 
-Some dinosaurs could glide or fly.
 
-Birds are direct descendants of dinosaurs.
 
-This means dinosaurs never fully disappeared.
 
-Every bird alive today is a type of dinosaur.
-
-Dinosaurs had diverse diets.
-
-Some ate leaves and grass-like plants.
-
-Others ate fish and small animals.
-
-Some were scavengers eating dead animals.
-
-Dinosaurs communicated with sounds.
-
-They may have used body movements too.
-
-Some had crests to make loud calls.
-
-Others used horns and frills for display.
-
-Dinosaurs also fought for mates.
-
-Some species lived in groups.
-
-Herds offered protection from predators.
-
-Predators often targeted the weak and young.
-
-Dinosaurs adapted to many environments.
-
-Some lived in forests.
-
-Others lived in deserts.
-
-Some lived near lakes and rivers.
-
-The climate during their time was warmer.
-
-There were no polar ice caps back then.
-
-Dinosaurs thrived in tropical regions.
-
-Giant ferns and cycads were common plants.
-
-Flowering plants appeared later.
-
-This changed dinosaur diets.
-
-Some dinosaurs grew armor for protection.
-
-Ankylosaurus had a club-like tail.
-
-Stegosaurus had plates on its back.
-
-Triceratops had three horns and a frill.
-
-Horns and frills could scare predators.
-
-They may also have been used for mating.
-
-Dinosaurs had sharp senses.
-
-Many had excellent vision.
-
-Some had a strong sense of smell.
-
-Predators relied on these senses to hunt.
-
-Dinosaurs grew at different speeds.
-
-Some reached adult size quickly.
-
-Others took many years to grow.
-
-Some dinosaurs lived long lives.
-
-Others lived only a few decades.
-
-Dinosaurs changed Earth’s ecosystems.
-
-They shaped plant life through eating.
-
-They spread seeds across land.
-
-Dinosaurs were part of complex food chains.
-
-Their extinction left gaps in ecosystems.
-
-Mammals began to rise after dinosaurs vanished.
-
-This opened the path for human evolution.
-
-Dinosaurs remain a mystery in many ways.
-
-New fossils are discovered every year.
-
-Technology helps study their bones.
-
-CT scans reveal details inside fossils.
-
-DNA studies may unlock more secrets.
-
-Dinosaurs continue to fascinate people.
-
-Movies and books keep their memory alive.
-
-Dinosaurs are a reminder of Earth’s ancient past.
